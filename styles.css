@@ -41,12 +41,7 @@ footer {
 
 .cell_img {width: 50%;}
 
-.cell_text {
-    width: 50%;
-    padding-left: 15rem;
-    font-size: 20px;
-}
-
+.cell_text { width: 50%; padding-left: 5rem;}
 
 .img {
     width: 100%;
@@ -75,6 +70,7 @@ body {
     text-decoration: none;
     font-weight: bold;
 }
+
 
 
 
